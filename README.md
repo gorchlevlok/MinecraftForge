@@ -1,4 +1,4 @@
-# How to install Forge: For Players
+# How to install Forge: For Playerz
 
 Go to [the Forge website](http://files.minecraftforge.net)
  and select the minecraft version you wish to get forge for from the list.
